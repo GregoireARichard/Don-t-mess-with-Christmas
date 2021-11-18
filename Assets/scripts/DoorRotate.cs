@@ -15,9 +15,9 @@ public class DoorRotate : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(Input.GetButtonDown("Fire1")){
+        /*if(Input.GetButtonDown("Fire1")){
             transform.Rotate(Axis, rotateSpeed * Time.deltaTime); 
-        }
+        }*/
         //float inputH = Input.GetAxis("Horizontal");
     }
 }
